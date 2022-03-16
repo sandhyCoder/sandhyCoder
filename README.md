@@ -1,7 +1,7 @@
 - Callme: Sandhya Shakya or TeamWorker.
 - 👀 I’m interested in Error.
 - 🌱 I’m currently learning about deep learning 
-- I’m currently Developing a Customer Service for Diagright.
+- I’m currently Developing a Customer Service for DiagRight.
 - How to reach me sandhya.shakya@diagright.
 
 <!---
